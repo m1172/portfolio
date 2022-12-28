@@ -1,0 +1,36 @@
+#Contact > h1 {
+  color: var(--primary-white) !important;
+}
+
+li,
+h5,
+h4 {
+  color: var(--primary-white) !important;
+}
+
+.footer {
+  position: fixed;
+  padding: 150px;
+  left: 0px;
+  right: 0px;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: black;
+  text-align: center;
+  overflow: hidden;
+  overflow-x: hidden;
+}
+i:hover {
+  color: #03aad7;
+}
+i {
+  color: white;
+}
+.row h1 {
+  margin: 0 auto;
+  margin-left: 0px;
+}
+#spanSpan {
+  color: #03aad7;
+}
